@@ -2,7 +2,7 @@
 
 > A curated list of IT-related Telegram groups, channels, and bots for the Kazakhstan tech community.
 
-**42** groups · **36** channels · **4** bots · **19** categories · verified **2026-08-27**
+**42** groups · **36** channels · **5** bots · **19** categories · verified **2026-08-27**
 
 **Languages:** [EN](README.md) · [RU](ru/index.md) · [KK](kk/index.md)
 
@@ -180,6 +180,7 @@
 - <a id="entry-chat_prettier_bot"></a>[Chat Prettier Bot](https://t.me/chat_prettier_bot) · `@chat_prettier_bot` · verified `2026-08-27` — Moderation bot: warnings, bans, message cleanup
 - <a id="entry-get_telegram_id_bot"></a>[Get Telegram ID Bot](https://t.me/Get_Telegram_ID_bot) · `@Get_Telegram_ID_bot` · verified `2026-08-27` — Get user and channel IDs
 - <a id="entry-shtrafkzbot"></a>[Shtraf KZ Bot](https://t.me/ShtrafKZBot) · `@ShtrafKZBot` · verified `2026-08-27` — Check and track fines, taxes, penalties
+- <a id="entry-countdowndaysbot"></a>[Countdown Days Bot](https://t.me/CountdownDaysBot) · `@CountdownDaysBot` · verified `2026-10-11` — Create countdowns for events and deadlines, get reminder messages before they happen
 
 ## Archive
 
